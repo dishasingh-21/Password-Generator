@@ -1,2 +1,2 @@
 # Password-Generator
-A password manager which creates a password of our desired length. Further asking the user if they want any specific kind of characters in their password. Helpful in making strong passwords.
+A dynamic password generator made with Python. It can create strong and secure passwords of custom lengths, with options to include specific character types as per user preferences.
